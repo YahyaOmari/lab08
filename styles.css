@@ -1,0 +1,42 @@
+h1{
+    color:back;
+    background-color: rgba(255, 0, 0);
+    width: 135px;
+}
+b {
+    background-color: rgb(255, 0, 0);
+    width: 135px;
+}
+body   {
+
+    background-image: url(https://citybook.pk/wp-content/uploads/2019/01/gym-in-lahore-1.jpg);
+}
+p {
+    color:rgb(2, 255, 255);
+}
+.Benefits li{
+    background-color:rgb(2, 255, 192);
+    width:110px;
+    margin-top: 15px; 
+    margin-bottom: 15px;
+
+    border-style:hidden;
+    border-width:10px;
+
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+}
+a {
+    color:brown;
+}
+.Expect li{
+    display: inline;
+    background-color:rgb(2, 255, 192);
+    width:110px;
+    margin-top: 15px; 
+    margin-bottom: 15px;
+
+}
+
