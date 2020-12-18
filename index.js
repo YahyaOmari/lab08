@@ -70,7 +70,7 @@ function showOrder()
         result = result + '<p>Model #' + i + ' ' + exrsice + '</p>';
     }
     
-    // document.write(exrsice);
+    document.write(exrsice);
     return result;
   }
   
